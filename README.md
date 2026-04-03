@@ -1,9 +1,16 @@
-👋 Olá, eu sou Ítalo!
+# 👋 Olá, eu sou Ítalo
 
-Sou um desenvolvedor júnior apaixonado por tecnologia e aprendizado contínuo. Estou focado em evoluir minhas habilidades e construir projetos práticos.
+Sou um desenvolvedor em início de carreira, altamente motivado e comprometido com aprendizado contínuo e evolução profissional na área de tecnologia. Tenho foco no desenvolvimento Full Stack e busco constantemente aprimorar minhas habilidades por meio de estudos e projetos práticos.
 
-🚀 Sobre mim
-💻 Estudando desenvolvimento Full Stack
-📚 Sempre aprendendo novas tecnologias
-🎯 Objetivo: crescer como desenvolvedor e contribuir em projetos reais
-🛠️ Tecnologias e Ferramentas
+## 🚀 Sobre mim
+
+* 💻 Em formação como desenvolvedor **Full Stack**
+* 📚 Engajado em aprendizado contínuo de novas tecnologias
+* 🎯 Objetivo profissional: evoluir como desenvolvedor e contribuir ativamente em projetos reais e de impacto
+
+## 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens:** TypeScript, C#, Python
+* **Frameworks:** Angular, .NET, Karma/Jasmine
+* **Ferramentas:** Docker, Azure DevOps
+* **Banco de dados:** SQL Server, PostgreSQL, MySQL
